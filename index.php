@@ -1,8 +1,6 @@
 
 
 <?php
-
-echo "Hola, como estás?";
-
+echo "Hola";
 echo "yazmin";
 ?>
